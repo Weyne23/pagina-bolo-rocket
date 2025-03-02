@@ -60,3 +60,7 @@ footer {
     text-align: center;
     color: #F0E8C2;
 }
+
+footer img {
+    vertical-align: middle;
+}
