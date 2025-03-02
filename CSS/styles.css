@@ -1,8 +1,11 @@
+:root{
+    font-family: "Alice", serif;
+}
+
 body {
     background-image: url("../assets/bg-image.png");
     background-size: cover;
     background-color: black;
-    font-family: "Playwrite IT Moderna", serif;
 }
 
  header img {
